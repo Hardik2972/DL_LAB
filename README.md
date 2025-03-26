@@ -11,3 +11,12 @@ configurations by experimenting with:
 3 Activation Functions
 3 Weight Initialization Techniques
 3 Optimizers
+
+Experiment 4: RNN and LSTM Implementation
+The aim of this experiment is to explore text generation using Recurrent Neural
+Networks (RNNs) and understand the impact of different word representations:
+1. One-Hot Encoding
+2. Trainable Word Embeddings
+
+Train an RNN model on a dataset of 100 poems and compare the perfor-
+mance of both encoding techniques.
